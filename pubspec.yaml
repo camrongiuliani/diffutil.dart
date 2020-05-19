@@ -6,6 +6,8 @@ homepage: https://github.com/knaeckeKami/diffutil.dart
 
 environment:
   sdk: ">=2.6.0 <3.0.0"
+  
+dependencies:
   freezed_annotation: ^0.10.8
 
 dev_dependencies:
